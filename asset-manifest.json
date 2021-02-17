@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.19e87ef0.chunk.css",
-    "main.js": "/static/js/main.f16b7342.chunk.js",
+    "main.js": "/static/js/main.de0e2289.chunk.js",
     "runtime~main.js": "/static/js/runtime~main.9b3571f9.js",
-    "static/js/2.460c0d9b.chunk.js": "/static/js/2.460c0d9b.chunk.js",
+    "static/js/2.007bb3a4.chunk.js": "/static/js/2.007bb3a4.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.8ce86e9e64064cc2a569492efb310193.js": "/precache-manifest.8ce86e9e64064cc2a569492efb310193.js",
+    "precache-manifest.3a9108e46a30681cd14300893667b7d6.js": "/precache-manifest.3a9108e46a30681cd14300893667b7d6.js",
     "service-worker.js": "/service-worker.js",
     "static/media/analogshirt.jpg": "/static/media/analogshirt.353c3fb5.jpg",
     "static/media/ballsilver.jpg": "/static/media/ballsilver.b08cd14b.jpg",
@@ -20,7 +20,6 @@
     "static/media/caprid1Ag2.jpg": "/static/media/caprid1Ag2.040b4de6.jpg",
     "static/media/caprid2.jpg": "/static/media/caprid2.bbe9e5be.jpg",
     "static/media/creamsicle.png": "/static/media/creamsicle.0e39298d.png",
-    "static/media/giftcardsgrey.png": "/static/media/giftcardsgrey.35d08543.png",
     "static/media/hoodie.jpg": "/static/media/hoodie.6af4bf5e.jpg",
     "static/media/logo.png": "/static/media/logo.5200f0d5.png",
     "static/media/orange-bow.png": "/static/media/orange-bow.17a1407c.png",

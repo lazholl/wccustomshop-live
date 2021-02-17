@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "25f3a3b79e110647f03e2b5c55e7fd87",
+    "revision": "e7bea242cf28bdcdc27d7c9db3e348c7",
     "url": "/index.html"
   },
   {
-    "revision": "ce2d20bf86eb63f797b5",
+    "revision": "1e3e69f57ea6479eb850",
     "url": "/static/css/main.19e87ef0.chunk.css"
   },
   {
-    "revision": "d80965c48a501b560716",
-    "url": "/static/js/2.460c0d9b.chunk.js"
+    "revision": "e41ff89264e32b70f84d",
+    "url": "/static/js/2.007bb3a4.chunk.js"
   },
   {
-    "revision": "ce2d20bf86eb63f797b5",
-    "url": "/static/js/main.f16b7342.chunk.js"
+    "revision": "1e3e69f57ea6479eb850",
+    "url": "/static/js/main.de0e2289.chunk.js"
   },
   {
     "revision": "f15498e6466b2ac19ca7",
@@ -70,10 +70,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0e39298d842712fbb1a4164402fd37f6",
     "url": "/static/media/creamsicle.0e39298d.png"
-  },
-  {
-    "revision": "35d0854364b40ac0b14ce8ac3419e6d3",
-    "url": "/static/media/giftcardsgrey.35d08543.png"
   },
   {
     "revision": "6af4bf5efb6760c00df8726118cbc1d6",
